@@ -33,3 +33,4 @@ function hallo4(...name){
 }
 console.log(hallo4('hans','john'))
 console.log(hallo4())
+gi
