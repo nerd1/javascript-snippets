@@ -1,4 +1,5 @@
 'use strict'
+
 export default class {
     constructor(writer){
         this.writer = writer

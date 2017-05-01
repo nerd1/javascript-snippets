@@ -10,7 +10,6 @@ let validator = {
 let r = validator.validate('buddha')
 validator
 
-
 // Konstruktor Funktion
 function Auto(brand){
     this.distance = 0
@@ -35,6 +34,7 @@ let a1 = new Auto('Ford')
 let a2 = new Auto('Tesla')
 a1.drive(10)
 a2.drive(340)
+a2.drive(10)
 
 
 // Auto.prototype.drive = function(){
